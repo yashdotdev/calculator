@@ -79,10 +79,7 @@ button:active {
   }
 
   input {
-    width: 300px;
-    padding: 24px;
-    margin: 10px;
-    font-size: 40px;
+    width: 94%;
   }
 
   button {
